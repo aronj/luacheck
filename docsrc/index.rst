@@ -1,10 +1,9 @@
 Luacheck documentation
 ======================
 
-Contents:
-
 .. toctree::
-
+   
+   install
    warnings
    cli
    config
